@@ -6,3 +6,9 @@
 • Manual user registration (as instructed)
 • Validated UI elements and API responses
 • Stored book details into file
+
+
+## How to Run Tests
+```bash
+npm install
+npx playwright test
